@@ -1,5 +1,5 @@
-<a href="https://earphones-proyect.vercel.app/" target="_blank">
-<img align="right" width="500" src="https://github.com/Dario2303/image/blob/main/earphone.png"/>
+<a href="https://cabins-nine.vercel.app/" target="_blank">
+<img align="right" width="500" src="https://github.com/Dario2303/cabins/blob/main/readme-image.png"/>
 </a>
   
 ### Cabins project - Udemy
